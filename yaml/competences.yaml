@@ -1,0 +1,27 @@
+competences:
+  - domaine: "Développement"
+    items:
+      - nom: "HTML"
+        niveau: "★★★☆☆"
+
+      - nom: "CSS"
+        niveau: "★★★☆☆"
+
+      - nom: "PHP"
+        niveau: "★★★☆☆"
+
+      - nom: "YAML"
+        niveau: "★★★☆☆"
+
+  - domaine: "Réseau"
+    items:
+      - nom: "TCP/IP"
+        niveau: "★★★★☆"
+
+      - nom: "LAN/WAN"
+        niveau: "★★★★☆"
+
+  - domaine: "Langues"
+    items:
+      - nom: "Anglais"
+        niveau: "★★★☆☆"

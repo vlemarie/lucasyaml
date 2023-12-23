@@ -1,0 +1,16 @@
+formations:
+  - nom: "BAC PRO SN OPTION RISC"
+    etablissement: "Charles Tellier"
+    date_debut: "01/09/2019"
+    date_fin: "30/06/2022"
+    lieu: "Condé-en-Normandie"
+    contenu: |
+        Le Bac Professionnel Systèmes Numériques, option Réseaux Informatiques et Systèmes Communicants (RISC), est une formation spécialisée dans le domaine de l'informatique et des réseaux. 
+
+  - nom: "BTS SIO OPTION SISR"
+    etablissement: "Sainte-Ursule"
+    date_debut: "28/08/2023"
+    date_fin: "27/08/2025"
+    lieu: "Caen"
+    contenu: |
+        Le BTS Services Informatiques aux Organisations (SIO) est une formation de niveau bac+2 qui vise à former des professionnels aptes à répondre aux besoins informatiques des entreprises. 

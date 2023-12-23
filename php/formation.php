@@ -5,7 +5,7 @@
 
   <?php
   // Charger le fichier YAML
-  $yamlFile = './yaml/formations.yaml';
+  $yamlFile = './yaml/formation.yaml';
   $yamlData = file_get_contents($yamlFile);
 
   // Convertir le contenu YAML en tableau PHP
@@ -25,5 +25,8 @@
     echo '</div>';
   }
   ?>
+<div class="mt-4">
+    <p>Pour plus de détails, <a href="https://drive.google.com/file/d/16GOKg_IadV_HUBq0RMBKvl92qKOALVh8/view" target="_blank">consultez mon CV.</a></p>
+  </div>
 
 </div>

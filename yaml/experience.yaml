@@ -1,0 +1,37 @@
+experiences:
+  - poste: "Stagiaire Technicien Support Informatique"
+    entreprise: "Centre Hospitalier Jacques Monod"
+    date_debut: "14/03/2022"
+    date_fin: "09/04/2022"
+    lieu: "Flers"
+    description: |
+      Taches réalisées :
+      → Installation OS Windows en PXE / Migration vers Windows 10
+      → Connexion Bureau à distance > dépannage à distance.
+      → Migration de donnée sur un nouveau site manuellement 
+      → Configuration Switch
+      → Script et création d’un serveur d’impression
+
+  - poste: "Stagiaire Informatique"
+    entreprise: "Daltoner"
+    date_debut: "25/01/2021"
+    date_fin: "20/02/2021"
+    lieu: "Vire"
+    description: |
+      Taches réalisés :
+      → Installation pilotes, MAJ Windows + MAJ B.I.O.S + logiciel de base selon le besoin.
+      → Nettoyage PC et Remplacement HDD pour SSD
+      → Vérification virus ou état disque dur = passage d’anti malwares, commande CMD 
+      afin de vérifier et réparer des fichiers système = sfc /scannow
+      → Maintenance sur imprimante, test de fonctionnement
+      → Changement barrette de RAM, carte réseau
+    
+      
+
+  - poste: "Alternant Technicien Helpdesk"
+    entreprise: "Cotral Lab"
+    date_debut: "28/08/2023"
+    date_fin: "27/08/2025"
+    lieu: "Condé-en-Normandie"
+    description: |
+        Taches réalisées : Prise de main à distance, hotline, gestion de parc, rédaction de procédure.
