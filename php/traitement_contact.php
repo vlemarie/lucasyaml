@@ -21,7 +21,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         echo "Votre message a été envoyé avec succès !";
     }
 } else {
-    // Redirection si le formulaire n'est pas soumis par la méthode POST
     header("Location: index.php");
     exit();
 }

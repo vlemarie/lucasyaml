@@ -1,7 +1,9 @@
 <div id="contact" class="container mt-5">
   <h2>Contactez-moi</h2>
-
-  <!-- Formulaire de contact avec Bootstrap classes -->
+<div class="container mt-4">
+    <p class="text-muted">
+      En soumettant ce formulaire, vous consentez à ce que nous recevions et traitons les informations fournies. Nous ne conservons pas vos données personnelles après le traitement de votre demande.
+    </p>
   <form action="traitement_contact.php" method="post">
     <div class="form-group">
       <label for="nom">Nom de l'expéditeur:</label>
